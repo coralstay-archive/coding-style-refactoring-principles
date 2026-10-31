@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "snippets": {
+    "practice/10_refactoring_katas/01_code_quality/01_make_code_hard_to_misuse/main.cpp::BankAccount": {
+      "code_sha256": "79cd6e2bb00043f333b0b58da455d60d8f1459ebf12a3e3be17a0fad095f777d",
+      "description": "01_make_code_hard_to_misuse",
+      "file_path": "practice/10_refactoring_katas/01_code_quality/01_make_code_hard_to_misuse/main.cpp",
+      "language": "cpp",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "BankAccount",
+      "verified_at": "",
+      "verified_sha256": ""
+    },
+    "practice/10_refactoring_katas/01_code_quality/02_single_level_of_abstraction/main.cpp::OrderItem": {
+      "code_sha256": "802978c34502e5972fb0f0b32de025e50b0e5f39512c22c9b96858cf369a7c84",
+      "description": "02_single_level_of_abstraction",
+      "file_path": "practice/10_refactoring_katas/01_code_quality/02_single_level_of_abstraction/main.cpp",
+      "language": "cpp",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "OrderItem",
+      "verified_at": "",
+      "verified_sha256": ""
+    },
+    "practice/10_refactoring_katas/02_unit_testing/01_resistance_to_refactoring_classical_testing/main.cpp::class": {
+      "code_sha256": "5b79d2bf7432d20216e03fd7d3387f26cee44fee0a8f6e1c098d4d465492a05b",
+      "description": "01_resistance_to_refactoring_classical_testing",
+      "file_path": "practice/10_refactoring_katas/02_unit_testing/01_resistance_to_refactoring_classical_testing/main.cpp",
+      "language": "cpp",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "class",
+      "verified_at": "",
+      "verified_sha256": ""
+    },
+    "practice/10_refactoring_katas/02_unit_testing/02_boundary_testing_correct_checklist/main.cpp::StatisticalEngine": {
+      "code_sha256": "ad771719a61d85937d57865d1d01268d3f342655a2fa71479beba46b5fc616dc",
+      "description": "02_boundary_testing_correct_checklist",
+      "file_path": "practice/10_refactoring_katas/02_unit_testing/02_boundary_testing_correct_checklist/main.cpp",
+      "language": "cpp",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "StatisticalEngine",
+      "verified_at": "",
+      "verified_sha256": ""
+    },
+    "practice/10_refactoring_katas/03_refactoring_smells/01_replace_nested_conditional_with_guard_clauses/main.cpp::getAdjustedCapital": {
+      "code_sha256": "88d237cf978bef4f624e8088652eb290f9ea1db08f751f487cf432c702a634c6",
+      "description": "01_replace_nested_conditional_with_guard_clauses",
+      "file_path": "practice/10_refactoring_katas/03_refactoring_smells/01_replace_nested_conditional_with_guard_clauses/main.cpp",
+      "language": "cpp",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "getAdjustedCapital",
+      "verified_at": "",
+      "verified_sha256": ""
+    },
+    "practice/10_refactoring_katas/03_refactoring_smells/02_replace_conditional_with_polymorphism/main.cpp::Employee": {
+      "code_sha256": "67986c2aa6d07bc028109a7c81e82bf0114711e372f9f3980ec392b82fe55132",
+      "description": "02_replace_conditional_with_polymorphism",
+      "file_path": "practice/10_refactoring_katas/03_refactoring_smells/02_replace_conditional_with_polymorphism/main.cpp",
+      "language": "cpp",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "Employee",
+      "verified_at": "",
+      "verified_sha256": ""
+    },
+    "practice/10_refactoring_katas/04_legacy_and_patterns/01_break_dependency_with_seam/main.cpp::TemperatureMonitor": {
+      "code_sha256": "1f71dfa9b9ca5390476ed07a2f2c9dcd75396fcb1f579a7601288fc0e852802a",
+      "description": "01_break_dependency_with_seam",
+      "file_path": "practice/10_refactoring_katas/04_legacy_and_patterns/01_break_dependency_with_seam/main.cpp",
+      "language": "cpp",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "TemperatureMonitor",
+      "verified_at": "",
+      "verified_sha256": ""
+    },
+    "practice/10_refactoring_katas/04_legacy_and_patterns/02_sprout_method_safe_addition/main.cpp::TransactionBatchProcessor": {
+      "code_sha256": "1a273ca20178ed5f6e9f5698afab5b155d53c77e98ccc89f2cf4c08deaff6da0",
+      "description": "02_sprout_method_safe_addition",
+      "file_path": "practice/10_refactoring_katas/04_legacy_and_patterns/02_sprout_method_safe_addition/main.cpp",
+      "language": "cpp",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "TransactionBatchProcessor",
+      "verified_at": "",
+      "verified_sha256": ""
+    }
+  }
+}

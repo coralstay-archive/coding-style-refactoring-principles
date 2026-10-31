@@ -1,0 +1,13 @@
+// ==============================================================================
+// @file: Test.java
+// @path: tracks/08_pragmatic_unit_testing/09_design_for_testability/01_core_example/Test.java
+// @book: 《자바와 JUnit을 활용한 실용주의 단위 테스트》(Jeff Langr 저, 길벗)
+// ==============================================================================
+
+public class Test {
+    public static void main(String[] args) {
+        Main.Greeter g = () -> "Mock Greet";
+        if (!g.greet().equals("Mock Greet")) throw new AssertionError();
+        System.out.println("PASS: Pragmatic Ch 09");
+    }
+}
